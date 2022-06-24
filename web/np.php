@@ -1,26 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-
-// disable ZLIB ouput compression
-ini_set('zlib.output_compression', 'Off');
-
-// compress data
-$gzipoutput = gzencode($output, 6);
-
-// various headers, those with # are mandatory
-header('Content-Type: application/x-download');
-header('Content-Encoding: gzip'); #
-header('Content-Length: ' . strlen($gzipoutput)); #
-header('Content-Disposition: attachment; filename="myfile.name"');
-header('Cache-Control: no-cache, no-store, max-age=0, must-revalidate');
-header('Pragma: no-cache');
-
-// output data 
-echo $gzipoutput;
-
-?>
-
 <!-- saved from url=(0040)https://www.np.edu.sg/Pages/default.aspx -->
 <html class="js no-flash no-proximity sizes transferables no-applicationcache blobconstructor blob-constructor cookies cors customelements mutationobserver picture es5function strictmode customevent es5undefined es6collections es6math eventlistener promises geolocation history no-ie8compat json notification queryselector serviceworker templatestrings beacon fetch websockets no-xdomainrequest xhrresponsetype localstorage svgfilters atobbtoa atob-btoa no-contextmenu classlist documentfragment audio canvas canvastext contenteditable multiplebgs template unknownelements emoji olreversed no-capture formattribute no-seamless imgcrossorigin inputformaction input-formaction no-inputformtarget no-input-formtarget video webanimations audioloop canvasblending canvaswinding scriptdefer no-stylescoped videopreload no-ambientlight inputsearchevent csschunit cssexunit cubicbezierrange opacity csspositionsticky supports hsla datalistelem xhrresponsetypedocument smil webworkers typedarrays checked displaytable display-table fontface generatedcontent no-hairline cssinvalid lastchild subpixelfont cssvhunit cssvwunit oninput no-hiddenscroll no-mathml no-touchevents unicoderange unicode pointerevents backgroundcliptext bgrepeatround bgrepeatspace bgsizecover borderimage boxshadow boxsizing no-cssgridlegacy cssgrid ellipsis cssfilters flexboxlegacy no-flexboxtweener cssreflections cssresize scrollsnappoints textalignlast csstransforms3d csstransitions cssanimations appearance bgpositionxy no-batteryapi no-battery-api crypto no-dart no-forcetouch gamepads intl pagevisibility pointerlock no-requestautocomplete requestanimationframe raf vibrate no-webintents no-lowbattery getrandomvalues backgroundblendmode getusermedia bloburls webpanimation datauri no-blobworkers no-audiopreload indexeddb hydrated no-videoautoplay indexeddb-deletedatabase" dir="ltr" lang="en-SG">
 
