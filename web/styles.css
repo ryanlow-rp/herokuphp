@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MyFont';
+  font-style: normal;
+  font-weight: 400;
+  src: url(MyFont.woff);
+  font-display: swap;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
