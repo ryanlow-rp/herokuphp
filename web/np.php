@@ -69,7 +69,7 @@
     var _browserisFlight = true
   </script>
   <meta http-equiv="Expires" content="0" />
-  <meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" />
+  <meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.webp" />
   <meta name="msapplication-TileColor" content="#0072C6" />
   <title>Be Part of Xtra</title>
   <link rel="stylesheet" type="text/css" href="./np_files/pagelayouts15.css" />
@@ -277,7 +277,7 @@
       "@context": "https://schema.org",
       "@type": "Organization",
       "url": "https://www.np.edu.sg",
-      "logo": "https://www.np.edu.sg/PublishingImages/logo.png",
+      "logo": "https://www.np.edu.sg/PublishingImages/logo.webp",
       "contactPoint": [{
         "@type": "ContactPoint",
         "telephone": "+65 6466 6555",
@@ -329,7 +329,7 @@
   <meta name="keywords" content="ngee ann poly, diplomas, courses, o level, a level, ite, polytechnic, singapore-education" />
   <link rel="canonical" href="https://www.np.edu.sg/Pages/default.aspx#" />
   <meta name="description" content="This is where you&#39;re meant to be. Discover XTRA at NP." />
-  <link rel="shortcut icon" href="https://www.np.edu.sg/PublishingImages/np_favicon.png" type="image/vnd.microsoft.icon" id="favicon" />
+  <link rel="shortcut icon" href="https://www.np.edu.sg/PublishingImages/np_favicon.webp" type="image/vnd.microsoft.icon" id="favicon" />
 
   <script type="text/javascript">
     //<![CDATA[
@@ -445,7 +445,7 @@
         tenantAppVersion: '0',
         isAppWeb: false,
         Has2019Era: true,
-        webLogoUrl: '\u002fSiteAssets\u002fnp_logo_blue.png',
+        webLogoUrl: '\u002fSiteAssets\u002fnp_logo_blue.webp',
         webLanguage: 1033,
         currentLanguage: 1033,
         currentUICultureName: 'en-US',
@@ -517,7 +517,7 @@
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
     <div id="imgPrefetch" style="display: none">
-      <img src="./np_files/np_favicon.png" alt="NGEE ANN" />
+      <img src="./np_files/np_favicon.webp" alt="NGEE ANN" />
     </div>
 
     <noscript>
@@ -1000,27 +1000,27 @@
                           </tr>
                           <tr>
                             <td>
-                              <img src="./np_files/banner3.png" alt="NGEE ANN" />
+                              <img src="./np_files/banner3.webp" alt="NGEE ANN" />
                             </td>
                             <td class="tr1 red">
-                              <img src="./np_files/climb-ico.png" class="icon" alt="NGEE ANN" />
+                              <img src="./np_files/climb-ico.webp" class="icon" alt="NGEE ANN" />
                             </td>
                             <td class="tr1 orange">
                               <a href="https://www.np.edu.sg/buddingentrepreneurs/Pages/default.aspx">The place to be for budding entrepreneurs</a>
                             </td>
                             <td>
-                              <img src="./np_files/banner4.png" alt="NGEE ANN" />
+                              <img src="./np_files/banner4.webp" alt="NGEE ANN" />
                             </td>
                             <td class="h400 mob3 mob75" colspan="2" rowspan="2">
-                              <img src="./np_files/banner-11.jpg" alt="NGEE ANN" />
+                              <img src="./np_files/banner-11.webp" alt="NGEE ANN" />
                             </td>
                           </tr>
                           <tr>
                             <td class="h400 mob3 mob75 green" colspan="2" rowspan="2">
-                              <img src="./np_files/NP_2022_logo.png" class="nplogo" alt="NGEE ANN" />
+                              <img src="./np_files/NP_2022_logo.webp" class="nplogo" alt="NGEE ANN" />
                             </td>
                             <td class="tr2 blue">
-                              <img src="./np_files/mb-ico.png" class="icon" alt="NGEE ANN" />
+                              <img src="./np_files/mb-ico.webp" class="icon" alt="NGEE ANN" />
                             </td>
                             <td class="tr2 green">
                               <a href="https://www.np.edu.sg/Plp/Pages/default.aspx">Graduate with a Diploma + Minor</a>
@@ -1028,35 +1028,35 @@
                           </tr>
                           <tr>
                             <td class="mob4 mob25 bottom0">
-                              <img src="./np_files/banner2.png" alt="NGEE ANN" />
+                              <img src="./np_files/banner2.webp" alt="NGEE ANN" />
                             </td>
                             <td class="tr3 orange">
-                              <img src="./np_files/park-ico.png" class="icon" alt="NGEE ANN" />
+                              <img src="./np_files/park-ico.webp" class="icon" alt="NGEE ANN" />
                             </td>
                             <td class="tr3 blue">
                               <a href="https://www.np.edu.sg/vibrantcampus/Pages/default.aspx">Join the poly well known for its beautiful
                                 and vibrant campus</a>
                             </td>
                             <td>
-                              <img src="./np_files/banner5.png" class="top-pos" alt="NGEE ANN" />
+                              <img src="./np_files/banner5.webp" class="top-pos" alt="NGEE ANN" />
                             </td>
                           </tr>
                         </tbody>
                       </table>
                     </div>
                     <div class="banner-mob-22">
-                      <a><img src="./np_files/2022_mob_01.png" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/buddingentrepreneurs/Pages/default.aspx"><img src="./np_files/2022_mob_02.png" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/Plp/Pages/default.aspx"><img src="./np_files/2022_mob_03.png" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/vibrantcampus/Pages/default.aspx"><img src="./np_files/2022_mob_04.png" alt="NGEE ANN" /></a>
+                      <a><img src="./np_files/2022_mob_01.webp" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/buddingentrepreneurs/Pages/default.aspx"><img src="./np_files/2022_mob_02.webp" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/Plp/Pages/default.aspx"><img src="./np_files/2022_mob_03.webp" alt="NGEE ANN" /></a><a href="https://www.np.edu.sg/vibrantcampus/Pages/default.aspx"><img src="./np_files/2022_mob_04.webp" alt="NGEE ANN" /></a>
                     </div>
                   </div>
                   <div class="BA-logo">
-                    <a href="https://www.np.edu.sg/" target="_blank"><img alt="NGEE ANN" src="./np_files/BA_logo.png" /></a>
+                    <a href="https://www.np.edu.sg/" target="_blank"><img alt="NGEE ANN" src="./np_files/BA_logo.webp" /></a>
                   </div>
                   <div class="container">
                     <div class="row">
                       <div class="row hero-logo np-banner-logo">
                         <div class="mobile mob-logo hidden">
                           <center>
-                            <img src="./np_files/graduation-banner-mob.jpg" alt="NGEE ANN" />
+                            <img src="./np_files/graduation-banner-mob.webp" alt="NGEE ANN" />
                           </center>
                         </div>
                         <div class="mobile" style="text-align: center">
@@ -1068,7 +1068,7 @@
                         <div class="mobile hidden">
                           <div align="center">
                             <a class="mobile" href="https://www.np.edu.sg/redcamp/Pages/default.aspx">
-                              <img src="./np_files/rcplus.png" alt="NGEE ANN" /></a>
+                              <img src="./np_files/rcplus.webp" alt="NGEE ANN" /></a>
                           </div>
                         </div>
                       </div>
@@ -1083,7 +1083,7 @@
                         <div class="row">
                           <div class="col-xs-12 col-sm-12 why-np-item col-md-4">
                             <div class="why-item-icon">
-                              <img alt="why-item-icon" src="./np_files/world.png" />
+                              <img alt="why-item-icon" src="./np_files/world.webp" />
                               <br />
                             </div>
                             <div class="why-item-content">
@@ -1097,7 +1097,7 @@
                           </div>
                           <div class="col-xs-12 col-sm-12 why-np-item col-md-4">
                             <div class="why-item-icon">
-                              <img alt="why-item-icon" src="./np_files/go-place.png" />
+                              <img alt="why-item-icon" src="./np_files/go-place.webp" />
                             </div>
                             <div class="why-item-content">
                               <h3 class="why-item-title">Go Places</h3>
@@ -1108,7 +1108,7 @@
                           </div>
                           <div class="col-xs-12 col-sm-12 why-np-item col-md-4">
                             <div class="why-item-icon">
-                              <img alt="why-item-icon" src="./np_files/Top-Notch.png" />
+                              <img alt="why-item-icon" src="./np_files/Top-Notch.webp" />
                             </div>
                             <div class="why-item-content">
                               <h3 class="why-item-title">
@@ -1124,7 +1124,7 @@
                         <div class="row">
                           <div class="col-xs-12 col-sm-12 why-np-item col-md-5 col-md-push-1">
                             <div class="why-item-icon">
-                              <img alt="why-item-icon" src="./np_files/Plenty.png" />
+                              <img alt="why-item-icon" src="./np_files/Plenty.webp" />
                             </div>
                             <div class="why-item-content">
                               <h3 class="why-item-title">
@@ -1138,7 +1138,7 @@
                           </div>
                           <div class="col-xs-12 col-sm-12 why-np-item col-md-5 col-md-push-1">
                             <div class="why-item-icon">
-                              <img alt="why-item-icon" src="./np_files/meaning.png" />
+                              <img alt="why-item-icon" src="./np_files/meaning.webp" />
                             </div>
                             <div class="why-item-content">
                               <h3 class="why-item-title">
@@ -1159,8 +1159,8 @@
                       </div>
                       <div class="row learning-gallery">
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-business.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/BA.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-business.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/BA.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Business &amp; Accountancy
@@ -1171,8 +1171,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-design.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/DE.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-design.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/DE.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Design &amp; Environment
@@ -1183,8 +1183,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/School-Engineering.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/SOE.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/School-Engineering.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/SOE.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Engineering
@@ -1195,8 +1195,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-humanities.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/HSS.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-humanities.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/HSS.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Humanities &amp; Social Sciences
@@ -1207,8 +1207,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-health.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/HS.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-health.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/HS.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Health Sciences
@@ -1219,8 +1219,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-film.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/FMS.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-film.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/FMS.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Film &amp; Media Studies
@@ -1231,8 +1231,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-infocomm.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/IT.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-infocomm.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/IT.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of InfoComm Technology
@@ -1243,8 +1243,8 @@
                           </div>
                         </div>
                         <div class="col-md-3 col-lg-3 learning-image-item">
-                          <img src="./np_files/school-life.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/LSCT.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-life.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/LSCT.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Life Sciences &amp; Chemical
@@ -1256,8 +1256,8 @@
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6 learning-image-item">
-                          <img src="./np_files/school-interdisiplinary.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/IS.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/school-interdisiplinary.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/IS.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">
                               School of Interdisciplinary Studies
@@ -1268,8 +1268,8 @@
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6 learning-image-item">
-                          <img src="./np_files/Life-long-learning.jpg" class="img-mobile" alt="NGEE ANN" />
-                          <img src="./np_files/lifelong.jpg" class="img-desktop" alt="NGEE ANN" />
+                          <img src="./np_files/Life-long-learning.webp" class="img-mobile" alt="NGEE ANN" />
+                          <img src="./np_files/lifelong.webp" class="img-desktop" alt="NGEE ANN" />
                           <div class="image-item-content">
                             <p class="image-item-title">Lifelong Learning</p>
                             <a href="https://www.np.edu.sg/lifelonglearning" class="learn-more" target="_blank">Learn more
@@ -1286,218 +1286,218 @@
                       </p>
                       <div class="the-places-content">
                         <div class="the-places-image">
-                          <img src="./np_files/Map.png" class="img-responsive" alt="NGEE ANN" />
+                          <img src="./np_files/Map.webp" class="img-responsive" alt="NGEE ANN" />
                           <div class="pin-layer">
                             <div class="location-pin open-modal" id="pin-1" data-page="home" data-title="california">
-                              <img src="./np_files/marker-l-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                              <img src="./np_files/marker-l-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                             </div>
                             <div class="location-pin open-modal" id="pin-2" data-page="home" data-title="italy">
-                              <img src="./np_files/marker-l-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                              <img src="./np_files/marker-l-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                             </div>
                             <div class="location-pin open-modal" id="pin-3" data-page="home" data-title="germany">
-                              <img src="./np_files/marker-l-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                              <img src="./np_files/marker-l-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                             </div>
                             <div class="location-pin open-modal" id="pin-4" data-page="home" data-title="indonesia">
-                              <img src="./np_files/marker-l-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                              <img src="./np_files/marker-l-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                             </div>
                             <div class="location-pin open-modal" id="pin-5" data-page="home" data-title="south-korea">
-                              <img src="./np_files/marker-l-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                              <img src="./np_files/marker-l-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                             </div>
                             <div class="north-america">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-6">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-7">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="europe">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-6">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-7">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-8">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-9">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-10">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-11">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-12">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-13">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-14">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="malaysia">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="indonesia">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="australia">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-blue.png" class="marker marker-l-blue" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-blue.webp" class="marker marker-l-blue" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="asia">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin ha-noi" id="sm-pin-6">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin ho-chi-minh" id="sm-pin-7">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-8">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-9">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-10">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-11">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-12">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="china">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-4">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-5">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="east-asia">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="mht">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-2">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                               <div class="small-location-pin" id="sm-pin-3">
-                                <img src="./np_files/marker-s-purple.png" class="marker marker-l-purple" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-purple.webp" class="marker marker-l-purple" alt="NGEE ANN" />
                               </div>
                             </div>
                             <div class="africa">
                               <div class="small-location-pin" id="sm-pin-1">
-                                <img src="./np_files/marker-s-green.png" class="marker marker-l-green" alt="NGEE ANN" />
+                                <img src="./np_files/marker-s-green.webp" class="marker marker-l-green" alt="NGEE ANN" />
                               </div>
                             </div>
                           </div>
@@ -1623,7 +1623,7 @@
                               <div class="row qp-content-item">
                                 <div class="table-row">
                                   <div class="qp-content-icon">
-                                    <img src="./np_files/environmental.png" alt="NGEE ANN" />
+                                    <img src="./np_files/environmental.webp" alt="NGEE ANN" />
                                   </div>
                                   <div class="qp-content-text">
                                     <p>
@@ -1763,45 +1763,45 @@
                       <div class="full-width">
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/BwZ2NPmlk1G/" target="_blank">
-                            <img src="./np_files/item-1.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-1.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/Bzh7aJ5l_Fv/" target="_blank">
-                            <img src="./np_files/item-2.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-2.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/Bsa3bSClZFG/" target="_blank">
-                            <img src="./np_files/item-6.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-6.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/B3EzWh4Fxmg/" target="_blank">
-                            <img src="./np_files/item-4.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-4.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/B4O2uxwl1l8/" target="_blank">
-                            <img src="./np_files/item-7.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-7.webp" alt="NGEE ANN" /></a>
                         </div>
                       </div>
                       <div class="full-width">
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/BxWTZwflZAh/" target="_blank">
-                            <img src="./np_files/item-3.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-3.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/B3LVKBgFVHK/" target="_blank">
-                            <img src="./np_files/item-9.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-9.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/B20Sc5OlBKZ/" target="_blank">
-                            <img src="./np_files/item-8.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-8.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/By2ghPgFj0i/" target="_blank">
-                            <img src="./np_files/item-5.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-5.webp" alt="NGEE ANN" /></a>
                         </div>
                         <div class="one-fifth">
                           <a href="https://www.instagram.com/p/BsXM8BclqF7/" target="_blank">
-                            <img src="./np_files/item-10.jpg" alt="NGEE ANN" /></a>
+                            <img src="./np_files/item-10.webp" alt="NGEE ANN" /></a>
                         </div>
                       </div>
                     </div>
@@ -1809,7 +1809,7 @@
                 </div>
                 <div class="designer-modal right-modal" id="">
                   <div class="close-modal">
-                    <a><img src="./np_files/close.png" alt="NGEE ANN" /></a><br />
+                    <a><img src="./np_files/close.webp" alt="NGEE ANN" /></a><br />
                   </div>
                   <div id="modal-content"><br /></div>
                   <i class="fa fa-spinner fa-pulse fa-3x fa-fw loading" style="
