@@ -1,5 +1,5 @@
 <?php
-header('X-My-App-Header: Hello World!');
+header('Cache-Control: max-age=31536000');
 ?>
 
 <!DOCTYPE html>
