@@ -1,11 +1,11 @@
 body {
-  background-color: #fc9; /* same as #ffcc99 */
+  background-color: #ffcc99;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  color: #b58; /* same as #bb5588 */
+  color: #bb5588;
   background-color: yellow;
 }
