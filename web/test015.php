@@ -8,11 +8,7 @@
 </head>
 
 <body>
-  <picture>
-    <source media="(max-width: 799px)" srcset="img/wallpaper-100w.jpg" width="100" height="100">
-    <source media="(min-width: 800px)" srcset="img/wallpaper-1536w.jpg" width="100%" height="100%">
-    <img src="wallpaper-1536w.jpg" alt="wallpaper image">
-  </picture>
+  <img src="img/wallpaper-small.jpg" alt="wallpaper image" width="100" height="100">
 </body>
 
 </html>
