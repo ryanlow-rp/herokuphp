@@ -11,6 +11,7 @@
   <p>
     Hello World!
   </p>
+  <main aria-hidden="true"><button>Click me</button></main>
 </body>
 
 </html>

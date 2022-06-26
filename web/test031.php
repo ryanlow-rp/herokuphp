@@ -11,7 +11,7 @@
   <p>
     Hello World!
   </p>
-  <div role="list" aria-checked="true"></div>
+  <div role="checkbox" aria-checked="true"></div>
 </body>
 
 </html>

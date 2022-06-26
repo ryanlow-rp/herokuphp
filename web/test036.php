@@ -11,7 +11,6 @@
   <p>
     Hello World!
   </p>
-  <div role="list" aria-checked="true"></div>
 </body>
 
 </html>
