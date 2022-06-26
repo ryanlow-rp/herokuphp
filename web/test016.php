@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <img src="img/wallpaper.jpg" alt="wallpaper image" width="300" height="200">
+  <img src="img/wallpaper.jpg" alt="wallpaper image" width="200" height="400">
 </body>
 
 </html>
