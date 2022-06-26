@@ -12,8 +12,8 @@
     Hello World!
   </p>
   <h1>Page title</h1>
-  <h3>Section heading 1</h3>
-  <h3>Section heading 2</h3>
+  <h2>Section heading 1</h2>
+  <h3>Sub-section heading 1</h3>
 </body>
 
 </html>
