@@ -12,7 +12,7 @@
     Hello World!
   </p>
   <ul>
-    <p>List item 1</p>
+    <li>List item 1</li>
   </ul>
 </body>
 
