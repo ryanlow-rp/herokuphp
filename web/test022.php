@@ -14,8 +14,8 @@
   <p>
     Hello World!
   </p>
-  <button>Button One</button>
-  <button>Button Two</button>
+  <button>a</button>
+  <button>b</button>
 </body>
 
 </html>
