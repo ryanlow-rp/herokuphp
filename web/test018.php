@@ -1,3 +1,7 @@
+<?php
+header('X-My-App-Header: Hello World!');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
