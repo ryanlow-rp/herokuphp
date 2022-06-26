@@ -14,8 +14,8 @@
   <p>
     Hello World!
   </p>
-  <button>a</button>
-  <button>b</button>
+  <p>To go to Google, <a href="https://www.google.com">click here</a>.</p>
+
 </body>
 
 </html>
